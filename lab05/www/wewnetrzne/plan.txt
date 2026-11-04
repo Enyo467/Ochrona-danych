@@ -1,1 +1,0 @@
-Fikcyjny plan: ten katalog ma byc niedostepny przez HTTP.
